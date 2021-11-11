@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   What I'm going to explore is Computer Vision, especially Perceptron in Autonomous Driving.
   
-  Before that, I studied at Wuhan University and focused on (remote sensing) Image Compression and Restoration in the Lab. of Intelligent Information Processing, supervised by [Prof.ZhenZhong Chen](iip.whu.edu.cn)
+  Before that, I studied at Wuhan University and focused on (Remote Sensing) Image Compression and Restoration in the Lab. of Intelligent Information Processing, supervised by [Prof.ZhenZhong Chen](iip.whu.edu.cn)
   
   To know more about my non-academic interests, you can scroll down and read the list at the bottom.
 
@@ -134,13 +134,15 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer science, here are some of my other interests and hobbies.(not listed in order, lol). 
+      Alongside my interests in computer science, here are some of my other interests and hobbies.(not listed in order, lol):
       
-      Some of them will be done in my [Wechat Offical Account](http://weixin.qq.com/r/0EWstCrELHdTrW7X9xDC):
       - Fitness
       - Writing
       - Photography and Travelling
-      - Sleep
+      - Sleeping
+      
+      <div align=center><img src="./images/photography.png"></div>
+      GoodLuck.
 
 # Footer
 footer_show_references: false
