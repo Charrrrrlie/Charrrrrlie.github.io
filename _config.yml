@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yuchen Yang
+title: Hard to definate
+email: charles.yyc@foxmail.com
+website: charrrrrlie.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  Charrrrrlie
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,68 +48,81 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  (updated on 2021.11.11)
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello there! My name's Yuchen Yang or you can call me Charles, Charrrrrlie (with a long drawl, as the unique site).
+
+  I'm currently a Ph.D. candidate who will study further at Fudan University and Shanghai AI Lab in a co-supervised project.
+  
+  What I'm going to explore is Computer Vision, especially Perceptron in Autonomous Driving.
+  
+  Before that, I studied at Wuhan University and focused on (remote sensing) Image Compression and Restoration in the Lab. of Intelligent Information Processing, supervised by [Prof.ZhenZhong Chen](iip.whu.edu.cn)
+
+  To know more about my non-academic interests, you can scroll down and read the list at the bottom.
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Wuhan University
+        caption: September 2018 - June 2022
+        sub_title: B.E. Remote Sensing
+        quote: >
+          Not only Sakura, but also my beloved friends and passed years.
+        description: | # this will include new lines to allow paragraphs
+      During my time in university, most time is spent on studying or the way to study. Luckily, however, I seize the opportunity to try new things and learn something "useless" which strengthened my comprehension of campus life.
+
+      Memories, to win a school-level basketball competition, to film a documentary gazing at body shame, or just to hang out with my best friends, are becoming a despairing part of me.  
+ 
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Dual-Modality Vehicle Anomaly Detection via Bilateral Trajectory Tracing
+        link: https://arxiv.org/abs/2106.05003
+        # link_text: arXiv Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  CVPRW_AICity_2021
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/jingyuanchan/CVPR_AICity_2021_Anomaly_Detection
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          We compete in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
+      
+      - layout: top-middle
+        title: on working!
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Shanghai AI Lab Intern
+        link: https://www.shlab.org.cn/
+        # link_text: Pujiang Lab
+        sub_title: Research Apprentice
+        caption: October 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Make a full use of the undergraduate time.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          It's a milestone that I started a full-time research life here. I joined the Autonomous Driving group in the Shanghai AI Lab and focused on 3D Object Detection. LiDAR and multi-view camera data that came from open-source datasets were processed and utilized to chase novel detection methods in various scenes.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in computer science, here are some of my other interests and hobbies.(not listed in order, lol):
+      - Fitness
+      - Writing
+      - Photography and Travelling
+      - Sleep
 
-      Look at this cool image  
+      -layout: bottom-mid
+       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
@@ -125,5 +138,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-theme: jekyll-theme-slate
