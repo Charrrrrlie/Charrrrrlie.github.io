@@ -13,7 +13,7 @@ email: charles.yyc@foxmail.com
 website: charrrrrlie.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -23,7 +23,7 @@ github_username:  Charrrrrlie
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: yc-yang
+# linkedin_username: yc-yang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -35,10 +35,13 @@ additional_links:
 - title: Google Scholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?hl=en&user=8OA2WRMAAAAJ
-# - title: another link
+- title: LinkedIn
+  icon: fab fa-linkedin
+  url: https://linkedin.com/in/yc-yang-099532211
+  
+# - title: LinkedIn
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
