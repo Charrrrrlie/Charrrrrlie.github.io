@@ -102,7 +102,7 @@ content:
           
           <div align=center><img src="./images/AICity.png"></div>
           
-          We compete in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
+          We competed in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
       
       - layout: top-middle
         title: More papers on working!
