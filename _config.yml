@@ -141,7 +141,7 @@ content:
       - Photography and Travelling
       - Sleeping
       
-      <div align=center><img src="./images/photography.jpg" width=60% height=60%></div>
+      <div align=center><img src="./images/photography.jpg" width="60%" height="60%"></div>
       GoodLuck.
 
 # Footer
