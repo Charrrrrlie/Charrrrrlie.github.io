@@ -23,7 +23,7 @@ github_username:  Charrrrrlie
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: yc yang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -31,10 +31,10 @@ github_username:  Charrrrrlie
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+ icon: fas fa-google
+ url: https://scholar.google.com/citations?hl=en&user=8OA2WRMAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -73,6 +73,7 @@ content:
           Not only Sakura, but also my beloved friends and passed years.
         description: | # this will include new lines to allow paragraph
           During my time in university, most time is spent on studying or the way to study. Luckily, however, I seize the opportunity to try new things and learn something "useless" which strengthened my comprehension of campus life.
+          
           Memories, to win a school-level basketball competition, to film a documentary gazing at body shame, or just to hang out with my best friends, are becoming a despairing part of me.  
  
   - title: Publications # Title for the section
@@ -122,10 +123,6 @@ content:
       - Writing
       - Photography and Travelling
       - Sleep
-
-      -layout: bottom-mid
-       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
