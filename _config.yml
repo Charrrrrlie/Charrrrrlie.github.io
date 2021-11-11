@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
   What I'm going to explore is Computer Vision, especially Perceptron in Autonomous Driving.
   
   Before that, I studied at Wuhan University and focused on (remote sensing) Image Compression and Restoration in the Lab. of Intelligent Information Processing, supervised by [Prof.ZhenZhong Chen](iip.whu.edu.cn)
-
+  
   To know more about my non-academic interests, you can scroll down and read the list at the bottom.
 
 content:
@@ -96,6 +96,7 @@ content:
         quote: >
           Jingyuan Chen*, Guanchen Ding*, <strong>Yuchen Yang</strong> *, Wenwei Han, Kangmin Xu, Tianyi Gao, Zhe Zhang, Wanping Ouyang, Hao Cai, Zhenzhong Chen
           
+          
           2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
           
@@ -120,7 +121,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           It's a milestone that I started a full-time research life here. I joined the Autonomous Driving group in the Shanghai AI Lab and focused on 3D Object Detection. LiDAR and multi-view camera data that came from open-source datasets were processed and utilized to chase novel detection methods in various scenes.
 
-
+  
+  - title: Timeline
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - To be continue
+      - 2020 Chen Yongling(陈永龄院士) Outstanding Student Scholarship 
+      - 2019 Nationial Scholarship
+      
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
