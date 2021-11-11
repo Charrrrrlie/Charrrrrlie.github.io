@@ -38,7 +38,9 @@ additional_links:
 - title: LinkedIn
   icon: fab fa-linkedin
   url: https://linkedin.com/in/yc-yang-099532211
-  
+- title: WeChat Offical Account
+  icon: fab fa-weixin
+  url: http://weixin.qq.com/r/0EWstCrELHdTrW7X9xDC
 # - title: LinkedIn
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -132,7 +134,9 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer science, here are some of my other interests and hobbies.(not listed in order, lol):
+      Alongside my interests in computer science, here are some of my other interests and hobbies.(not listed in order, lol). 
+      
+      Some of them will be done in my [Wechat Offical Account](http://weixin.qq.com/r/0EWstCrELHdTrW7X9xDC):
       - Fitness
       - Writing
       - Photography and Travelling
