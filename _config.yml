@@ -100,7 +100,7 @@ content:
           <table width="100%" height="100%">
           <tr>
           <td align="center">
-          <img src="images/AICity.png" />
+          <img src="./images/AICity.png" />
           </td>
           </tr>
           </table>
