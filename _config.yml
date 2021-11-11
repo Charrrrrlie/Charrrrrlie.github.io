@@ -32,8 +32,8 @@ linkedin_username: yc yang
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-google
+- title: Google Scholar
+  icon: fab fa-google
   url: https://scholar.google.com/citations?hl=en&user=8OA2WRMAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
