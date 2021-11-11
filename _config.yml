@@ -23,7 +23,7 @@ github_username:  Charrrrrlie
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: yc yang
+linkedin_username: yc-yang
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -96,10 +96,8 @@ content:
           2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
           
-          <div align=center>![AICity](./images/AICity.png)</div>
-          ![AICity](./images/AICity.png)
-          <div align=center>![alt text](/images/landscape-trees.jpg "Trees")</div>
-
+          <div align=center><img src="./images/AICity.png"></div>
+          
           We compete in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
       
       - layout: top-middle
