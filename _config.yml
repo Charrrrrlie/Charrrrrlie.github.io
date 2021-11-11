@@ -95,6 +95,17 @@ content:
           
           2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
+          
+          <div id="adFailDes" style="display : none;position: absolute; width: 100%; height: 100%;z-index:99999;background: #ffc05f; ">
+          <table width="100%" height="100%">
+          <tr>
+          <td align="center">
+          <img src="images/AICity.png" />
+          </td>
+          </tr>
+          </table>
+          </div>
+
           We compete in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
       
       - layout: top-middle
