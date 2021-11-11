@@ -96,6 +96,8 @@ content:
           2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
           
+          - Images ![AICity](./images/AICity.png "AICity")
+          
           <div id="adFailDes" style="display : none;position: absolute; width: 100%; height: 100%;z-index:99999;background: #ffc05f; ">
           <table width="100%" height="100%">
           <tr>
