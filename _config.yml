@@ -8,12 +8,12 @@ version: 2
 
 # Personal info
 name: Yuchen Yang
-title: Hard to definate
+title: Hard to define
 email: charles.yyc@foxmail.com
 website: charrrrrlie.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -51,7 +51,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   (updated on 2021.11.11)
 
-  Hello there! My name's Yuchen Yang or you can call me Charles, Charrrrrlie (with a long drawl, as the unique site).
+  Hello there! My name's <mark>Yuchen Yang</mark> or you can call me Charles, Charrrrrlie (with a long drawl, as the unique site).
 
   I'm currently a Ph.D. candidate who will study further at Fudan University and Shanghai AI Lab in a co-supervised project.
   
@@ -90,7 +90,8 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Jingyuan Chen*, Guanchen Ding*, **Yuchen Yang** *, Wenwei Han, Kangmin Xu, Tianyi Gao, Zhe Zhang, Wanping Ouyang, Hao Cai, Zhenzhong Chen
+          Jingyuan Chen*, Guanchen Ding*, <strong>Yuchen Yang</strong> *, Wenwei Han, Kangmin Xu, Tianyi Gao, Zhe Zhang, Wanping Ouyang, Hao Cai, Zhenzhong Chen
+          
           2021 CVPRW AICity Challenge. Work done in Lab. IIP in Wuhan University.
         description: | # this will include new lines to allow paragraphs
           We compete in the AICity Challenge Anomaly Detection Track and in this paper, we proposed a dual-modality modularized methodology for the robust detection of abnormal vehicles. We introduced an integrated anomaly detection pipeline comprising multi-level feature extraction and fusion. It's worth noticing that we explore the boundary of detecting crashing vehicles. The experiment conducted on the challenge dataset shows a extraordinary results, ranking 3rd place among all competitors and slightly lower than the winner and runner-up.
