@@ -52,7 +52,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/prof.jpg
 about_content: | # this will include new lines to allow paragraphs
   (updated on 2021.11.11)
 
@@ -115,7 +115,7 @@ content:
       - layout: left
         title: Shanghai AI Lab Intern
         link: https://www.shlab.org.cn/
-        # link_text: Pujiang Lab
+        link_text: Pujiang Lab
         sub_title: Research Apprentice
         caption: October 2021 - Present
         quote: >
@@ -129,7 +129,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - To be continue
       - 2020 Chen Yongling(陈永龄院士) Outstanding Student Scholarship 
-      - 2019 Nationial Scholarship
+      - 2019 National Scholarship
       
   - title: More About Me
     layout: text
