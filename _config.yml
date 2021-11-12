@@ -52,7 +52,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/prof.jpg
+about_profile_image: images/prof.JPG
 about_content: | # this will include new lines to allow paragraphs
   (updated on 2021.11.11)
 
