@@ -141,10 +141,13 @@ content:
       - Photography and Travelling
       - Sleeping
       
-      <div align=center><img src="./images/photography.jpg" width="60%" height="60%"></div>
+      <div align=center><img src="./images/photography.jpg" width="40%" height="40%"></div>
       GoodLuck.
+      
+      <div align=center width="40%" height="40%">
       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=LE7jZHWhl4f124PN78jIa66jh4x6jWvW7r8270x1hYg&co=89939b&cmo=1c61c4&cmn=79a5bc'></script>
-
+      </div>
+      
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
