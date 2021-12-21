@@ -144,9 +144,9 @@ content:
       <div align=center><img src="./images/photography.jpg" width="40%" height="40%"></div>
       GoodLuck.
       
-      <div align=center>
+      <div align=center></div>
       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=109&t=tt&d=LE7jZHWhl4f124PN78jIa66jh4x6jWvW7r8270x1hYg&co=c5cdd3&cmo=9db1b5&cmn=3a6dcc'></script>
-      </div>
+      
       
 # Footer
 footer_show_references: false
