@@ -43,7 +43,7 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a style="color: inherit;">News</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -55,7 +55,7 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a style="color: inherit;">Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
@@ -72,6 +72,11 @@ layout: default
 
             </div>
           {%- endif %}
+
+          <!-- Footer -->
+          <!-- <div>
+            <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=LE7jZHWhl4f124PN78jIa66jh4x6jWvW7r8270x1hYg&co=7990a0&cmo=679ad3&cmn=9fdb78'></script>
+          </div> -->
         </article>
 
 </div>

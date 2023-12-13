@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Gallery
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected photograhy works.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [2023, 2022]
 horizontal: false
 ---
 
@@ -27,7 +27,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
