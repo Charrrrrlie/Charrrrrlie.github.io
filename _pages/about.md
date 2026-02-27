@@ -28,7 +28,7 @@ Hello!
 `My name` is **Yuchen Yang** or you can call me Charles, Charrrrrlie *(with a long drawl, as the unique site)*.
 
 I am currently a Ph.D. candidate of [Fudan University](https://www.fudan.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/) in a co-supervised project, under the supervision of [Xiao Sun](https://jimmysuen.github.io/), [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), and [Xiaoou Tang](https://mmlab.ie.cuhk.edu.hk/).
-During my Ph.D., I have also had the honor of working with [Zhihang Zhong](https://zzh-tech.github.io/) and [Xing Gao](https://william-gx.github.io/), who provided invaluable guidance and support.
+During my Ph.D., I had the honor of working with [Zhihang Zhong](https://zzh-tech.github.io/) and [Xing Gao](https://william-gx.github.io/), who provided invaluable guidance and support.
 
 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](https://scholar.google.com/citations?user=w_BcpK8AAAAJ&hl=en).
 
