@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. students for AI in Sports
+subtitle: Ph.D. students in AI for Sports
 
 profile:
   align: right
@@ -19,6 +19,9 @@ social: false  # includes social icons at the bottom of the page
 <blockquote style="margin: 0.8em; padding: 0.8em; font-size: 0.8em; font-weight: bold; font-style: italic; white-space: pre-wrap">
   彼一如我   ——木心
 </blockquote>
+
+
+<br>
 
 Hello!
 
