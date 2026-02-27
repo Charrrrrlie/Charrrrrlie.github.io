@@ -32,7 +32,7 @@ During my Ph.D., I had the honor of working with [Zhihang Zhong](https://zzh-tec
 
 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](https://scholar.google.com/citations?user=w_BcpK8AAAAJ&hl=en).
 
-`My research interests` lie in: **Human-Centered Scene Perception and Understanding**
+`My research interests` lie in: **Human-Centric Scene Perception and Understanding**
   <br> Especially: Spatial Intelligence of VLMs, Human Pose and Motion, and Sports Understanding.
   <br> ~~Previously: 3D Perception in Autonomous Driving.~~
 
