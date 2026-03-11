@@ -23,6 +23,8 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
+<strong style="color: red;">Expected to graduate in 2027 and actively seeking full-time opportunities.</strong>
+
 Hello!
 
 `My name` is **Yuchen Yang** or you can call me Charles, Charrrrrlie *(with a long drawl, as the unique site)*.
@@ -36,4 +38,4 @@ Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.w
   <br> Especially: Spatial Intelligence of VLMs, Human Pose and Motion, and Sports Understanding.
   <br> ~~Previously: 3D Perception in Autonomous Driving.~~
 
-(Updated on 2026-02-27)
+(Updated on 2026-03-11)
